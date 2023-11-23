@@ -1,11 +1,14 @@
+# Satria Data 2023
+
+## Problem
+
+Melakukan prediksi plat nomor dengan teknik OCR
+
 ## Arsitektur
 
 1. Transformation \
-   alternatif:
 
    - Thin-Plate Splin
-   - Preprocess jeki
-   - jeki + TPS
 
 2. Feature Extraction
 
@@ -19,4 +22,6 @@
 
    - Attention
 
-source: http://arxiv.org/abs/1904.01906
+source:
+http://arxiv.org/abs/1904.01906
+https://github.com/clovaai/deep-text-recognition-benchmark
